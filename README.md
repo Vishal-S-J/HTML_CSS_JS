@@ -156,6 +156,30 @@ The bidirectional tag which prints the text in opposite format.
 ```
 > Example - [Text and Formatting page](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part4textandformatting.html)
 
+## Links and formatting
+```
+<a href=""> ... </a>
+Anchor for the hyperlink
+```
+```
+<a href="mailto:"> ... </a>
+Link used to send a mail to specific id
+```
+```
+<a href="tel://##-##"> ... </a>
+Link to make a phone call to specified number.
+```
+```
+<a href="name"> ... </a>
+Tags thats usefull to bring the users to specified document element.
+```
+```
+<a href="#name"> ... </a>
+A tag that brings users specifically to div element.
+```
+> Example - [Links with different attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part5linksandformatting.html)
+
+
 # CSS
 
 # JS
