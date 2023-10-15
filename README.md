@@ -179,6 +179,56 @@ A tag that brings users specifically to div element.
 ```
 > Example - [Links with different attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part5linksandformatting.html)
 
+## Image and formatting
+```
+<img />
+An image tag used to include and display image files.
+```
+```
+src = "url"
+Source of URL or the file path to display.
+```
+```
+alt = "text"
+If the image is not loaded so alternate text should be displayed.
+```
+```
+height = ""
+To specify the height of the image in pixel or percentage.
+```
+```
+width = ""
+To specify width in pixel or percentage.
+```
+```
+align = ""
+The alignment of the image relative to other text on the page
+```
+```
+border = ""
+Gives border thickness if any
+```
+```
+vspace = ""
+Denote spacing on top or the bottom of an image.
+```
+```
+hspacing = ""
+Denotes spacing on top or the bottom of image.
+```
+```
+<map> ... </map>
+Helps you to tell the users that this is an interactive image with clickable areas.
+```
+```
+<map name=""> ... </map>
+Name of the map associated between the image and map.
+```
+```
+<area/>
+Specifies the area of the map image.
+```
+> Example - [Images with Map attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part6imagesandmap.html.html)
 
 # CSS
 
