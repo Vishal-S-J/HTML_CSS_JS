@@ -81,6 +81,81 @@ This is a horizontal line use to break the sections in an HTML page.
 ```
 > Example - [Document Structure page](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part3documentstructure.html)
 
+## Text and formatting
+```
+<strong> ... </strong>
+Exactly as it says displayed in bold letters and indicating strong emphasis.
+```
+```
+<b> ... </b>
+Another way to create bold text but without emphasis.
+```
+```
+<em> ... </em>
+The emphasis tags also are like they sound. emphasizing text or phrase displayed as italic.
+```
+```
+<i> ... </i>
+Another way to add italic text but without emphasizing on it.
+```
+```
+<cite> ... </cite>
+Tags used to create referenct information, usefull for quotes and statements.
+```
+```
+<pre> ... </pre>
+This is a pre formated text even the spacing is also left as it is.
+```
+```
+<del> ... </del>
+This helps denotes a previously deleted section of text.
+```
+```
+<ins> ... </ins>
+Represents a section of text thats been inserted into the doocument.
+```
+```
+<blockquotes> ... </blockquotes>
+Reserved for long paragraphs of quotations, often cited
+```
+```
+<q> ... </q>
+These are used for shoter quotations
+```
+```
+<abbr> ... </abbr>
+Abbrevations these helps denote abbrevations while also making the full form available
+```
+```
+<address> ... </address>
+As the name suggest authors contact information.
+```
+```
+<dfn> ... </dfn>
+Definition used to create an inline definition in the body of the text.
+```
+```
+<code> ... </code>
+We can added embeded code within this tag.
+```
+```
+<sub> ... </sub>
+Subscript text shrink the text and place it in lower half of the previous text.
+```
+```
+<sup> ... </sup>
+Similar to previous tag but it places in the top half instead.
+```
+```
+<small> ... </small>
+Decrease the size of the text, indicating that the information is no longer valid or accurate or relevent.
+```
+```
+<bdo> ... </bdo>
+The bidirectional tag which prints the text in opposite format.
+```
+> Example - [Text and Formatting page](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part4textandformatting.html)
+
 # CSS
 
 # JS
