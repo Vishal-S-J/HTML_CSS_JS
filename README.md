@@ -255,7 +255,7 @@ The definition of the term.
 <dd> ... </dd>
 The description for the defined term given in dt
 ```
-> Example - [Images with Map attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part7listandformatting.html)
+> Example - [List and formatting attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part7listandformatting.html)
 
 # CSS
 
