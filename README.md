@@ -228,7 +228,34 @@ Name of the map associated between the image and map.
 <area/>
 Specifies the area of the map image.
 ```
-> Example - [Images with Map attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part6imagesandmap.html.html)
+> Example - [Images with Map attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part6imagesandmap.html)
+
+## Lists and its formatting
+```
+<ol> ... </ol>
+Create numbered or ordered list with sequential order with preference or priority.
+```
+```
+<ul> ... </ul>
+Display bulleted or unordered list without any order of importance.
+```
+```
+<li> ... </li>
+Specifies each list item to be bulleted or numbered.
+```
+```
+<dl> ... </dl>
+Reserved specifically for list items definitions.
+```
+```
+<dt> ... </dt>
+The definition of the term.
+```
+```
+<dd> ... </dd>
+The description for the defined term given in dt
+```
+> Example - [Images with Map attributes](https://github.com/Vishal-S-J/HTML_CSS_JS/blob/main/Part7listandformatting.html)
 
 # CSS
 
