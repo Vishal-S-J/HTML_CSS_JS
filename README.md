@@ -214,7 +214,7 @@ Denote spacing on top or the bottom of an image.
 ```
 ```
 hspacing = ""
-Denotes spacing on top or the bottom of image.
+Denotes spacing on left or right of image.
 ```
 ```
 <map> ... </map>
